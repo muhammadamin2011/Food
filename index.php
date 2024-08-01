@@ -1,5 +1,4 @@
-
-        <?php  require_once('partials/header.php'); ?>
+<?php  require_once('partials/header.php'); ?>
     <!--//header-->
     <!-- banner section -->
     <?php  require_once('partials/banner.php'); ?>
@@ -16,8 +15,6 @@
     <!-- blog section -->
     <?php  require_once('partials/blog.php'); ?>
     <!-- //blog section -->
-   
-   
     <!-- footer -->
     <?php  require_once('partials/footer.php'); ?>
     <!-- //footer -->
